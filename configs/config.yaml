@@ -1,0 +1,15 @@
+project:
+  problem_statement_id: 26153
+  name: "AI based Network Attack Forecasting from Network Traffic Data"
+
+data:
+  dataset: "CIC-IDS2018"
+
+model:
+  world_model: "LSTM"
+
+forecasting:
+  k_steps: null
+
+window:
+  size: null
